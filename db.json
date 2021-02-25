@@ -1,0 +1,60 @@
+{
+  "productos": [
+    {
+      "name": "Rib Eye 800g",
+      "price": "100",
+      "id": 4,
+      "precio": "2000"
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "prueba",
+      "price": 200,
+      "id": 6
+    },
+    {
+      "name": "juo de piña",
+      "price": 100,
+      "id": 7
+    },
+    {
+      "name": "juo de piña",
+      "price": 100,
+      "id": 8
+    },
+    {
+      "name": "juo de piña",
+      "price": 100,
+      "id": 9
+    },
+    {
+      "name": "jugo de piña",
+      "price": 100,
+      "id": 10
+    },
+    {
+      "name": "jugo de piña",
+      "price": 100,
+      "id": 11
+    },
+    {
+      "name": "jugo de piña",
+      "price": 100,
+      "id": 12
+    },
+    {
+      "name": "jugo de piña",
+      "price": 100,
+      "id": 13
+    },
+    {
+      "name": "tequila",
+      "price": 20,
+      "id": 14
+    }
+  ]
+}
